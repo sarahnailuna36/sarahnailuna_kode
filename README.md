@@ -63,5 +63,6 @@ Berikut tutorial sederhana membuat Spaghetti Carbonara ala rumahan dengan rasa c
 * Pakai ayam
 * Tambah cabai untuk pedas
 * Gunakan fettucine kalau tidak ada spaghetti
+* Tambah telur 
 
 
