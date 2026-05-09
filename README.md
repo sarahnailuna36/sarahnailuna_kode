@@ -3,7 +3,7 @@ Berikut tutorial sederhana membuat Spaghetti Carbonara ala rumahan dengan rasa c
 
 ## Bahan (2 porsi)
 
-* 200 gram spaghetti
+* 250 gram spaghetti
 * 2 butir telur
 * 50 gram keju parmesan atau pecorino, parut
 * 100 gram smoked beef / beef bacon / guanciale
