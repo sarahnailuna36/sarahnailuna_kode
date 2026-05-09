@@ -64,10 +64,4 @@ Berikut tutorial sederhana membuat Spaghetti Carbonara ala rumahan dengan rasa c
 * Tambah cabai untuk pedas
 * Gunakan fettucine kalau tidak ada spaghetti
 
-Kalau mau, saya juga bisa bantu:
-
-* versi carbonara creamy pakai susu
-* resep budget anak kos
-* versi autentik Italia
-* takaran untuk 1 keluarga
 
